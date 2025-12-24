@@ -1,0 +1,10 @@
+[Trace Management]
+tracefile0 = f415_mbedtls_1500_latency0_30db_allBits255_data/traces/config_2024.01.01-16.44.20_0.cfg
+enabled0 = True
+[ChipWhisperer]
+[[General Settings]]
+Project Name = Untitled
+Project File Version = 1.00
+Project Author = Unknown
+Program Name = ChipWhisperer
+Program Version = ""

@@ -1,0 +1,10 @@
+[Trace Management]
+tracefile0 = f415_mbedtls_1500_nops_data/traces/config_2024.02.16-09.37.08_0.cfg
+enabled0 = True
+[ChipWhisperer]
+[[General Settings]]
+Project Name = Untitled
+Project File Version = 1.00
+Project Author = Unknown
+Program Name = ChipWhisperer
+Program Version = ""
